@@ -1,4 +1,6 @@
 # File-Content-Copy
+**2026 Update**: I can't believe I wrote such... an amazing piece of software. Gave me a good laugh 4+ years later, enjoy.
+
 Copies contents of files from a directory to a single .txt (or csv) file. Edit initial lines of code to fill out the necessary details:
 - Location of files to read from
 - Filetype of files to read
